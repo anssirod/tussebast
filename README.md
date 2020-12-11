@@ -8,7 +8,7 @@
 
 ## Связь со мной 💭
 - <a href="https://t.me/anssirod"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram</a>
-- <a href="mailto:anssirod@gmail.com">📩 E-mail: `anssirod@gmail.com`</a>
+- <a href="mailto:anssirod@gmail.com"> 📩 E-mail: `anssirod@gmail.com`</a>
 - <a href="https://discordapp.com/users/695730570176757891/"><img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width=16 height=16 align="center" /> Discord: `anssirod`</a>
 ## Статистика 📊
 <img src="https://gpvc.arturio.dev/anssirod" align="center" />
