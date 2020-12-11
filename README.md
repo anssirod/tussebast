@@ -1,6 +1,6 @@
 ### Коничива 👋
 
-Меня зовут [Данила](https://t.me/calmven), я студент, обучающийся в Москве
+Меня зовут [Данила](https://t.me/anssirod), я студент, обучающийся в Москве
 
 ## То что я использую в работе👨‍💻
 
@@ -8,4 +8,4 @@
 
 ## Связь со мной💭
 - <a href="https://t.me/anssirod"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram (preferred)</a>
-- <a href="mailto:crinny@protonmail.com">📩 E-mail: `anssirod@gmail.com`</a>
+- <a href="mailto:anssirod@gmail.com">📩 E-mail: `anssirod@gmail.com`</a>
