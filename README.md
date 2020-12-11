@@ -9,7 +9,7 @@
 ## Связь со мной 💭
 - <a href="https://t.me/anssirod"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram</a>
 - <a href="mailto:anssirod@gmail.com">📩 E-mail: `anssirod@gmail.com`</a>
-- <a href="https://discordapp.com/users/695730570176757891/"><img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width=16 height=16 align="center" /> Discord: <img src="https://img.shields.io/badge/%3Canssirod%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" align="center"></a>
+- <a href="https://discordapp.com/users/695730570176757891/"><img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width=16 height=16 align="center" /> Discord: <img src="https://img.shields.io/badge/%3Canssirod%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" align="center" style="border-radius:50%"></a>
 ## Статистика 📊
 <img src="https://gpvc.arturio.dev/anssirod" align="center" />
 <img src="https://github-readme-stats.vercel.app/api?username=anssirod&show_icons=true&count_private=true">
