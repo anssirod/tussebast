@@ -11,5 +11,5 @@
 - <a href="mailto:anssirod@gmail.com">📩 E-mail: `anssirod@gmail.com`</a>
 
 ## Статистика 📊
-<img src="https://gpvc.arturio.dev/crinny" align="center" />
+<img src="https://gpvc.arturio.dev/anssirod" align="center" />
 <img src="https://github-readme-stats.vercel.app/api?username=anssirod&show_icons=true&count_private=true">
