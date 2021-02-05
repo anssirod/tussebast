@@ -11,5 +11,5 @@
 - <a href="https://discordapp.com/users/695730570176757891/"><img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width=16 height=16 align="center" /> Discord: `anssirod`</a>
 ## Статистика 📊
 <img src="https://gpvc.arturio.dev/anssirod" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anssirod">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anssirod&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api?username=anssirod&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
