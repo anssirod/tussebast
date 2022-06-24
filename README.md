@@ -3,7 +3,7 @@
 <p>
  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
  </p>
-[![hoc081098's github stats](https://github-readme-stats.vercel.app/api?username=hoc081098&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/hoc081098)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoc081098&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/hoc081098)
 
 
   
