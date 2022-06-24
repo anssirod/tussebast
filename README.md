@@ -1,4 +1,4 @@
-Меня зовут Данила, я flutter разработчик в [SIGMA-IT](https://sigma-it.ru/)
+Меня зовут Данила, я Flutter разработчик в [SIGMA-IT](https://sigma-it.ru/)
 
 <p>
  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
