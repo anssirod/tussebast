@@ -4,7 +4,7 @@
  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='80"'>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/contestormi/contestormi/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/contestormi/output/github-contribution-grid-snake.svg)
 
 
 ## Связь со мной 💭
