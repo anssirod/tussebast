@@ -1,6 +1,6 @@
 Меня зовут Данила, я Flutter разработчик в [SIGMA-IT](https://sigma-it.ru/)
 
-![Titan](titan.gif)
+<img src = "titan.gif" /> 
 
 ## Языки, фреймворки и прочее, что я использую в работе:
 
